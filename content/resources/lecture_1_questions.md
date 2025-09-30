@@ -4,6 +4,8 @@ description: Outline of topics covered in the lecture.
 file: /courses/17-196-globalization-fall-2005/9b52f14433ee0deef17a2819b53fa9ee_lecture_1_questions.pdf
 file_size: 114654
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

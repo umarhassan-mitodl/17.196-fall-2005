@@ -38,6 +38,7 @@
     "website": "17-196-globalization-fall-2005"
   },
   "course_title": "Globalization",
+  "hide_download": true,
   "course_description": "This seminar explores changes in the international economy and their effects on domestic politics, economy, and society. Is globalization really a new phenomenon? Is it irreversible? What are effects on wages and inequality, on social safety nets, on production, and innovation? How does it affect relations between developed countries and developing countries? How globalization affects democracy? These are some of the key issues that will be examined.\n",
   "department_numbers": [
     "17"
@@ -48,6 +49,7 @@
     "content": "f69b64ed-9c6b-55ee-7e2c-b206cdc54885",
     "website": "17-196-globalization-fall-2005"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Written Assignments"
   ],
