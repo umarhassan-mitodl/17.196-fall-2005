@@ -112,7 +112,7 @@ Daly, Herman. "Free Trade: The Perils of Deregulation." In *The Case Against The
 
 Wallach, Lori. *Whose Trade Organization? Corporate Governance and the Erosion of Democracy*. New York, NY: New Press, 2004, chapter 5. ISBN: 9781565848412.
 
-"[Harvesting Poverty](http://nytimes.com/ref/opinion/harvesting-poverty.html?pagewanted=all)." (Read entire collection of editorials from *New York Times*.)
+"{{% resource_link "cdaeacff-c8e6-4730-b884-a341acbf0d5c" "Harvesting Poverty" %}}." (Read entire collection of editorials from *New York Times*.)
 
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "0ba3ef56-c7ad-0f34-c58e-fd9e1883853e" "PDF" %}})
@@ -190,7 +190,7 @@ Wade, Robert. "Winners and Losers." *The Economist,* April 26, 2001.
 
 *Recommended*
 
-Sala-I-Martin, Xavier. "[The Disturbing 'Rise' of Global Income Inequality](http://papers.nber.org/papers/W8904)." NBER Working Paper No. 8904, April 2002.
+Sala-I-Martin, Xavier. "{{% resource_link "eb7b7db7-e462-4f60-b1a4-a5c9bff5a6bc" "The Disturbing 'Rise' of Global Income Inequality" %}}." NBER Working Paper No. 8904, April 2002.
 
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "c726143e-e8af-bd04-10a0-5c6a1cd4bcb1" "PDF" %}})
